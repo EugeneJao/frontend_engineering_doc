@@ -1,0 +1,29 @@
+{
+  "name": "online_doc",
+  "version": "1.0.0",
+  "description": "基于vuepress的在线文档工具",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneJao/online_doc.git"
+  },
+  "keywords": [
+    "vuepress",
+    "document",
+    "graph"
+  ],
+  "author": "raoyijun181",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneJao/online_doc/issues"
+  },
+  "homepage": "https://github.com/EugeneJao/online_doc#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.10",
+    "vuepress-theme-cool": "^0.1.9"
+  }
+}
