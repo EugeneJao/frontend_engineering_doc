@@ -650,7 +650,7 @@ class [类名2] {
 | 描述 | 含义 |
 | --- | :-: |
 | <\|-- --\|>| 继承 |
-| <\|.. ..|>| 实现 |
+| <\|.. ..\|>| 实现 |
 | *-- --*| 组成 |
 | o-- --o | 聚合 |
 | - -- --- | 双向关联关系 |
@@ -694,12 +694,12 @@ Class15 --o Class16: 聚合 >
 @enduml
 
 @startuml
-Class07 .. Class08: 依赖
-Class09 -- Class10: 关联
-Class19 --> Class20: 依赖 >
-Class21 <-- Class22: 依赖 <
-Class23 <.. Class24: 关联 <
-Class25 ..> Class26: 关联 >
+Class07 .. Class08: 双向依赖
+Class09 -- Class10: 双向关联
+Class19 --> Class20: 单向关联 >
+Class21 <-- Class22: 单向关联 <
+Class23 <.. Class24: 单向依赖 <
+Class25 ..> Class26: 单向依赖 >
 @enduml
 
 

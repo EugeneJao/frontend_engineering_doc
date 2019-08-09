@@ -17,7 +17,7 @@
 > 是webpack在编译过程中的专有概念，实质是一个或多个module的集合，在webpack内部分为entry chunk和child chunk两个类型。
 
 ## bundle
-
+    
 > 就是最终的输出文件、一个bundle对应一个或多个chunk。
 
 

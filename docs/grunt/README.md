@@ -44,6 +44,7 @@ loadNpmTasks --> registerTask(registerTask注册任务)
 * [grunt-injector](https://www.npmjs.com/package/grunt-injector)：html资源注入，如css和js。
 * [grunt-lesslint](https://www.npmjs.com/package/grunt-lesslint)：less代码格式化校验。
 * [grunt-karma](https://www.npmjs.com/package/grunt-karma)：单元测试
+* [grunt-umd](https://www.npmjs.com/package/grunt-umd)：用于模块导出，如果有指定的全局对象，则绑定在全局对象下。
 
 ## 问题
 
