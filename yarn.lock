@@ -7675,10 +7675,10 @@ vuepress-theme-cool@^0.1.9:
     vue-good-table "^2.16.0"
     vuex "^3.0.1"
 
-vuepress@^0.14.10:
-  version "0.14.10"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.10.tgz#070281ad0c9d48e7c848eb9511c96ceb106414ab"
-  integrity sha512-upD0br3AUmZQ+kNJMg135jW36JjYAdShl6XYwDmVMw4XbtcLDSMGWTLqLCQN3PTIs/7TgiJ3cLWNL1ps63gyUQ==
+vuepress@^0.14.11:
+  version "0.14.11"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.11.tgz#fc6ba0e609e3433a8070e95301b4d987712b2a08"
+  integrity sha512-5iB7iWeEG7GtEiNwmS2LOcifp2V93aZ4+oO9pq8OcUgOWay9/NqmNqzg7KQ7AJ0puZGg0tYwUKKjifIWIPE8jQ==
   dependencies:
     "@babel/core" "7.0.0-beta.47"
     "@vue/babel-preset-app" "3.0.0-beta.11"
